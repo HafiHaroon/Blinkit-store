@@ -1,4 +1,4 @@
-# Blinkit-store
+# Blinkit-store #
 Blinkit Store is India’s last-minute online grocery and essentials delivery platform, designed to provide customers with a fast and seamless shopping experience. This project analyzes Blinkit’s sales performance, customer ratings, and product distribution using an interactive Power BI dashboard. The analysis covers key performance indicators (KPIs) such as total sales, average sales per transaction, item counts, outlet performance, product categories, and geographical sales distribution.
 ---
 
