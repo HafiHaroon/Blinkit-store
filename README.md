@@ -35,20 +35,35 @@ Regular: 776.32K
 
 # Item Type (Total Sales)
 Fruits and Vegetables — 0.18M
+
 Snack Foods — 0.18M
+
 Household — 0.14M
+
 Frozen Foods — 0.12M
+
 Dairy — 0.10M
+
 Canned — 0.09M
+
 Baking Goods — 0.08M
+
 Health and Hygiene — 0.07M
+
 Meat — 0.06M
+
 Soft Drinks — 0.06M
+
 Breads — 0.04M
+
 Hard Drinks — 0.03M
+
 Others — 0.02M
+
 Starchy Foods — 0.02M
+
 Breakfast — 0.02M
+
 Seafood — 0.01M
 
 # Outlet Establishment Year (Sales Trend)
