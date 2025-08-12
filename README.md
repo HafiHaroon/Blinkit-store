@@ -19,7 +19,7 @@ You can watch the full video tutorial here: [YouTube Link](https://www.youtube.c
 ---
 ## 📸 Dashboard Preview
 
-  ![Bstore(1)](https://github.com/HafiHaroon/Blinkit-store/commit/7ca8bf3c07142c0c8af5df182f685f9335771e50")
+  ![Bstore(1)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore1.PNG)
 
 
 
