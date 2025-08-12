@@ -96,4 +96,4 @@ Tier 2: 393.15K
 
 Tier 1: 336.40K
 
-(https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
+ ![Bstore(2)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
