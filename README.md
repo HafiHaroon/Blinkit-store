@@ -95,3 +95,5 @@ Tier 3: 472.13K
 Tier 2: 393.15K
 
 Tier 1: 336.40K
+
+(https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
