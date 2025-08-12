@@ -2,11 +2,6 @@
 - Blinkit Store is India’s last-minute online grocery and essentials delivery platform, designed to provide customers with a fast and seamless shopping experience. This project analyzes Blinkit’s sales performance, customer ratings, and product distribution using an interactive Power BI dashboard. The analysis covers key performance indicators (KPIs) such as total sales, average sales per transaction, item counts, outlet performance, product categories, and geographical sales distribution.
 ---
 
-## 📽 Demo Video
-You can watch the full video tutorial here: [YouTube Link](https://www.youtube.com/watch?v=mmxVCFceQgU&t=10s)
-
----
-
 ## 🚀 Features
 - Identify top-performing product categories and outlet types.
 
@@ -107,4 +102,7 @@ Tier 1: 336.40K
 
 # Baking Good Filter
 ![Bstore(5)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore5.PNG)
+
+## 📽 Demo Video
+You can watch the full video tutorial here: [YouTube Link](https://www.youtube.com/watch?v=mmxVCFceQgU&t=10s)
 
