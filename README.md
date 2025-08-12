@@ -1,7 +1,5 @@
 # Blinkit-store
-Short and clear description of your project.  
-(Example: "This is a Power BI Dashboard project that analyzes sales data and provides insights into performance trends.")
-
+Blinkit Store is India’s last-minute online grocery and essentials delivery platform, designed to provide customers with a fast and seamless shopping experience. This project analyzes Blinkit’s sales performance, customer ratings, and product distribution using an interactive Power BI dashboard. The analysis covers key performance indicators (KPIs) such as total sales, average sales per transaction, item counts, outlet performance, product categories, and geographical sales distribution.
 ---
 
 ## 📽 Demo Video
@@ -10,10 +8,13 @@ You can watch the full video tutorial here: [YouTube Link](https://www.youtube.c
 ---
 
 ## 🚀 Features
-- Feature 1 (e.g., Interactive Power BI dashboard)
-- Feature 2 (e.g., Filter by category, region, or date)
-- Feature 3 (e.g., Trend analysis and KPI monitoring)
-- Feature 4 (e.g., Data cleaning and transformation using Power Query)
+- Identify top-performing product categories and outlet types.
+
+- Understand customer preferences through ratings and sales trends.
+
+- Optimize inventory and outlet strategies based on location and size performance.
+
+- Monitor sales growth patterns over time for better forecasting and decision-making.
 
 ---
 
