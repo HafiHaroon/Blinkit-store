@@ -97,5 +97,8 @@ Tier 2: 393.15K
 
 Tier 1: 336.40K
 
-#Avg Rating
+# Avg Rating
  ![Bstore(2)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
+
+# No of Item
+ ![Bstore(3)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore3.PNG)
