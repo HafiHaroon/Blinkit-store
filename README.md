@@ -74,6 +74,9 @@ Breakfast — 0.02M
 
 Seafood — 0.01M
 
+# No of Item
+ ![Bstore(3)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore3.PNG)
+
 # Outlet Establishment Year (Sales Trend)
 2012: 78K
 
@@ -102,5 +105,4 @@ Tier 1: 336.40K
 # Avg Rating
  ![Bstore(2)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
 
-# No of Item
- ![Bstore(3)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore3.PNG)
+
