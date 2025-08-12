@@ -19,6 +19,7 @@ You can watch the full video tutorial here: [YouTube Link](https://www.youtube.c
 ---
 ## 📸 Dashboard Preview
 
+# Total Sale
   ![Bstore(1)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore1.PNG)
 
 
@@ -96,4 +97,5 @@ Tier 2: 393.15K
 
 Tier 1: 336.40K
 
+#Avg Rating
  ![Bstore(2)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
