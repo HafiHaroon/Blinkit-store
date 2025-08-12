@@ -34,6 +34,8 @@ Number of Items: 9K
 
 Average Rating: 3.92
 
+# Avg Sale
+  ![Bstore(4)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore4.PNG)
 # Breakdown by Fat Content
 Low Fat: 425.36K
 
