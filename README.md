@@ -105,4 +105,6 @@ Tier 1: 336.40K
 # Avg Rating
  ![Bstore(2)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore2.PNG)
 
+# Baking Good Filter
+![Bstore(5)](https://github.com/HafiHaroon/Blinkit-store/blob/main/Bstore5.PNG)
 
